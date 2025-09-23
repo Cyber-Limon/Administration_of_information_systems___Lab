@@ -1,1 +1,1 @@
-# Administration-of-information-systems___Lab
+# Администрирование информационных систем | Лабораторная работа

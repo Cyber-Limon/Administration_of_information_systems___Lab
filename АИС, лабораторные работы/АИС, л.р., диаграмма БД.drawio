@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="Блок-схема" id="o9_GBfIcHE4Dt8sdAnpn">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry height="40" width="160" x="360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="UMvW3Rh36Ayt6H3dER9X-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;- код&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="380" y="500" as="geometry" />
+          <mxGeometry height="40" width="160" x="360" y="520" as="geometry" />
         </mxCell>
         <mxCell id="UMvW3Rh36Ayt6H3dER9X-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;- ФИО&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="360" y="480" as="geometry" />
